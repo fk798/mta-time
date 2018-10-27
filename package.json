@@ -1,0 +1,17 @@
+{
+    "name": "mta-time",
+    "version": "2.0.0",
+    "description": "To be determined",
+    "repository": "fk798/mta-time",
+    "keywords": [
+        "mta",
+        "subway",
+        "new york",
+        "lirr",
+        "metro north"
+    ],
+    "dependencies": {
+        "gtfs-realtime-bindings": "0.0.4",
+        "request": "^2.88.0"
+    }
+}
