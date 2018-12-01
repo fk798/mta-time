@@ -12,6 +12,8 @@
     ],
     "dependencies": {
         "gtfs-realtime-bindings": "0.0.4",
+        "mta-gtfs": "^1.1.0",
+        "mta-metro": "^2.0.2",
         "request": "^2.88.0"
     }
 }
